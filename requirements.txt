@@ -1,0 +1,4 @@
+aiogram
+python-decouple
+pika
+aio_pika
